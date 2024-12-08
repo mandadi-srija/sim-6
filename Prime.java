@@ -14,7 +14,7 @@ public class Prime {
                     break;
                 }
             }
-            if(c==1)
+            if(c==0)
             ans.add(i);
         }
         for(int i=0;i<ans.size();i++)
